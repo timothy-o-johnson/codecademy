@@ -244,7 +244,7 @@ var controller = (function (budgetCtrl, UICtrl) {
 
       // 1. delete item from data structure
       // 2. delete item from the UI
-      // 3. update and show new budget
+      // 3. update and show  the new budget
     }
 
   }

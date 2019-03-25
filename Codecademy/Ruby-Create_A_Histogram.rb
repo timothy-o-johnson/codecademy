@@ -3,7 +3,7 @@ a program that takes a users input, then builds a hash from that input.
 Each key in the hash will be a word from the user; 
 each value will be the number of times that word occurs. 
 
-For example, if our program gets the string "the rain in Spain falls mainly on the plain", 
+For example, if our program gets the string "the rain in Spain falls mainly on the plains", 
 it should return
 
 the 2
@@ -12,7 +12,7 @@ on 1
 mainly 1
 in 1
 rain 1
-plain 1
+plains 1
 Spain 1
 =end
 
